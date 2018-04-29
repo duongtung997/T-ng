@@ -1,2 +1,0 @@
-# T-ng
-web design
